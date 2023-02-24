@@ -11,13 +11,18 @@
 
 ## The main courses 📚 in my academic records:
 
-  - 💻 Machine Learning and Deep learning.  - 🎮 Reinforcement Learning.  - 👁️‍🗨️📸 Computer Visoin.  - 📖 Natural Language Processing.
+  - 💻 Machine Learning & Deep learning.  - 🎮 Reinforcement Learning.  - 👁️‍🗨️📸 Computer Visoin.  - 📖 Natural Language Processing.
   - ➕ Algebra.  - 📈 Mathematical Analysis.  - 🎲 Advanced probabilities.  - ⚙️ Optimization.
   - 🎛️ Multi-Agent systems.  - 🕹🃏 Game Theory. - 📉 Operations researchs & Statistics  
   - 📶 Electromagnetic waves and communications.  - 〰️ Signal processing.
 
 
 ## Some of my projects in data science & artificial intelligence:
+- Computer Vision:
+  - Patches Or Attention: <a href="https://github.com/elasriz/Patches-OR-Attention">
+  - Soccer Offside Marker
+  
+
 
 
 ## If you want to know more about me:
