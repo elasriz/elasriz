@@ -19,7 +19,8 @@
 
 ## Some of my projects in data science & artificial intelligence:
 - Computer Vision:
-  - Patches Or Attention: <a href="https://github.com/elasriz/Patches-OR-Attention">
+  - [Patches Or Attention](elasriz/Patches-OR-Attention)
+
   - Soccer Offside Marker
   
 
